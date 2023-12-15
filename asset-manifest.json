@@ -1,16 +1,31 @@
 {
   "files": {
-    "main.css": "/the-door/static/css/main.f855e6bc.css",
-    "main.js": "/the-door/static/js/main.2f855f6d.js",
+    "main.css": "/the-door/static/css/main.ddfb35af.css",
+    "main.js": "/the-door/static/js/main.24685203.js",
     "static/js/787.876451f2.chunk.js": "/the-door/static/js/787.876451f2.chunk.js",
-    "static/media/logo.svg": "/the-door/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/long.mp4": "/the-door/static/media/long.7cf8d7a9f46e55e4c9a1.mp4",
+    "static/media/short.mp4": "/the-door/static/media/short.d72084a5a34ba297e15b.mp4",
+    "static/media/rev4.MOV": "/the-door/static/media/rev4.f2231bdeba6054f6bfd4.MOV",
+    "static/media/rev1.MOV": "/the-door/static/media/rev1.a3f02c1f9ed9446f4983.MOV",
+    "static/media/rev2.MOV": "/the-door/static/media/rev2.6058513255df38611cac.MOV",
+    "static/media/gif2.gif": "/the-door/static/media/gif2.a89bb341f498e82dc993.gif",
+    "static/media/rev3.MOV": "/the-door/static/media/rev3.dd4c2a1e560890b03c6e.MOV",
+    "static/media/gif1.gif": "/the-door/static/media/gif1.83ef201868487b915e06.gif",
+    "static/media/flames.TTF": "/the-door/static/media/flames.2997e567aefab68c430d.TTF",
+    "static/media/code.gif": "/the-door/static/media/code.a3dad34172e1fd9d232d.gif",
+    "static/media/door-fast.gif": "/the-door/static/media/door-fast.c003c773cda6eb446907.gif",
+    "static/media/title.gif": "/the-door/static/media/title.e7ad12e91c1137c95ae4.gif",
+    "static/media/fireworks.gif": "/the-door/static/media/fireworks.9e9a9ecba6633ae838c6.gif",
+    "static/media/fire.gif": "/the-door/static/media/fire.f2342de692b620dbc37c.gif",
+    "static/media/stars.gif": "/the-door/static/media/stars.b4c8bcf3be753391f767.gif",
+    "static/media/open.gif": "/the-door/static/media/open.83446a8a081421aa9fda.gif",
     "index.html": "/the-door/index.html",
-    "main.f855e6bc.css.map": "/the-door/static/css/main.f855e6bc.css.map",
-    "main.2f855f6d.js.map": "/the-door/static/js/main.2f855f6d.js.map",
+    "main.ddfb35af.css.map": "/the-door/static/css/main.ddfb35af.css.map",
+    "main.24685203.js.map": "/the-door/static/js/main.24685203.js.map",
     "787.876451f2.chunk.js.map": "/the-door/static/js/787.876451f2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.2f855f6d.js"
+    "static/css/main.ddfb35af.css",
+    "static/js/main.24685203.js"
   ]
 }
