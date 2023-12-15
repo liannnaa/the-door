@@ -1,0 +1,23 @@
+.description {
+    padding: 20px;
+    background-image: url('../media/stars.gif');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #333333;
+    font-family: 'Verdana', sans-serif;
+    line-height: 1.6;
+    position: relative;
+}
+
+.description p {
+    text-indent: 20px;
+    color: white;
+    text-shadow:#333333;
+    padding: 10px;
+}
+
+.description img {
+    width: 30%;
+    height: auto;
+    margin: 20px;
+}

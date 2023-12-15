@@ -1,0 +1,50 @@
+@font-face {
+    font-family: "text";
+    src: url("../media/flames.TTF");
+}
+
+.header {
+    text-align: center;
+    padding: 20px;
+    background-image: url('../media/code.gif');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    border-bottom: 3px solid #FF3399;
+}
+
+.title-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.door {
+    width: 100px;
+    height: auto;
+}
+
+.main-title {
+    width: 500px;
+    height: auto;
+}
+
+.header h1 {
+    font-family: ''Arial', sans-serif';
+    font-size: 2.5em;
+    text-shadow: 2px 2px #6807b7;
+    margin: 0;
+}
+
+.header p, .header h3 {
+    font-family: 'Courier New', monospace;
+    text-shadow: 2px 2px #3e056c;
+    font-size: 1.2em;
+    margin: 0;
+    width: 100%; 
+}
+
+.header p {
+    font-family: 'text', monospace;
+}

@@ -1,0 +1,22 @@
+.photo-gallery {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 20px;
+    background-image: url('../media/fire.gif');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.video-row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.video-row video, .video-row img {
+    max-width: 45%;
+    height: auto;
+    flex: 1;
+}
