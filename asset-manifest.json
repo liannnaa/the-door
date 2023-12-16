@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/the-door/static/css/main.ddfb35af.css",
-    "main.js": "/the-door/static/js/main.4cfe345e.js",
+    "main.css": "/the-door/static/css/main.65835b45.css",
+    "main.js": "/the-door/static/js/main.d18e315f.js",
     "static/js/787.876451f2.chunk.js": "/the-door/static/js/787.876451f2.chunk.js",
     "static/media/long.mp4": "/the-door/static/media/long.7cf8d7a9f46e55e4c9a1.mp4",
     "static/media/short.mp4": "/the-door/static/media/short.d72084a5a34ba297e15b.mp4",
@@ -20,12 +20,12 @@
     "static/media/stars.gif": "/the-door/static/media/stars.b4c8bcf3be753391f767.gif",
     "static/media/open.gif": "/the-door/static/media/open.83446a8a081421aa9fda.gif",
     "index.html": "/the-door/index.html",
-    "main.ddfb35af.css.map": "/the-door/static/css/main.ddfb35af.css.map",
-    "main.4cfe345e.js.map": "/the-door/static/js/main.4cfe345e.js.map",
+    "main.65835b45.css.map": "/the-door/static/css/main.65835b45.css.map",
+    "main.d18e315f.js.map": "/the-door/static/js/main.d18e315f.js.map",
     "787.876451f2.chunk.js.map": "/the-door/static/js/787.876451f2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ddfb35af.css",
-    "static/js/main.4cfe345e.js"
+    "static/css/main.65835b45.css",
+    "static/js/main.d18e315f.js"
   ]
 }
