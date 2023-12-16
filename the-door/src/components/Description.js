@@ -8,17 +8,17 @@ function Description() {
   return (
     <div className="description">
       <p>
-        Crafted by the creative minds of Lianna Poblete and Hannah Zhao,
-        'The Door' is a groundbreaking Virtual Reality art piece that delves deep into the theme of 'inescapable failure'.
-        This immersive experience transports users to a spooky,
-        seemingly endless hallway,
-        crafted with the advanced capabilities of Unreal Engine 5's Niagara system.
-        As participants navigate this eerie space,
-        they encounter a mysteriously fading and reappearing door,
-        a flickering candle to guide their way,
-        and a progressively intensifying heartbeat that resonates with their approach to the door.
-        'The Door' pushes the boundaries of emotional impact in VR,
-        offering an unparalleled exploration of suspense and surrealism.
+      The Door is an exploratory VR experience that challenges users to confront the fear of the unknown.
+      Crafted by Lianna Poblete and Hannah Zhao,
+      this project pushes the boundaries of emotional impact in virtual reality.
+      Users find themselves in a spooky,
+      seemingly endless hallway,
+      embodying the metaphor of stepping into new experiences.
+      Utilizing Unreal Engine 5’s Niagara system,
+      'The Door' presents a visually stunning scenario where a door materializes from particles,
+      symbolizing both fear and allure.
+      Accompanying the journey are elements like a candle to navigate the darkness and a heartbeat sound that intensifies as one approaches the door,
+      enhancing the surreal and unsettling atmosphere.
       </p>
       <img src={death} className="death" alt="death"/>
       <img src={open} alt="open"/>

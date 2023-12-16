@@ -13,7 +13,7 @@ function Review() {
       <div className="reviews">
         <p>"Super sick and slay"</p>
         <p>"Oh that's so scary"</p>
-        <p>"Oh wow"</p>
+        <p>"Eek!"</p>
         <p>"Wait this is actually cool"</p>
       </div>
       <div className="videos">
